@@ -1,0 +1,21 @@
+{
+  "name": "parokai-darker-hc-theme",
+  "displayName": "Parokai Darker HC Theme",
+  "description": "Visual Studio Code Theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.76.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Parokai Darker HC",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Parokai-Darker-HC-Theme-color-theme.json"
+      }
+    ]
+  }
+}
