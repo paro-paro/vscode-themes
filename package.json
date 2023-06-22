@@ -1,8 +1,8 @@
 {
-  "name": "parokai-darker-hc-theme",
-  "displayName": "Parokai Darker HC Theme",
+  "name": "paro-paro-solarized-dark",
+  "displayName": "Paro Paro Solarized Dark",
   "description": "Visual Studio Code Theme",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -12,9 +12,9 @@
   "contributes": {
     "themes": [
       {
-        "label": "Parokai Darker HC",
+        "label": "Paro Paro Solarized Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Parokai-Darker-HC-Theme-color-theme.json"
+        "path": "./themes/Paro-Paro-Solarized-Dark-Theme.json"
       }
     ]
   }
