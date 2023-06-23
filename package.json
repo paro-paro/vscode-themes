@@ -1,8 +1,10 @@
 {
   "name": "paro-paro-solarized-dark",
+  "version": "1.1.0",
+  "description": "My own vscode theme based on Solarized Dark",
   "displayName": "Paro Paro Solarized Dark",
-  "description": "Visual Studio Code Theme",
-  "version": "1.0.0",
+  "publisher": "paro-paro",
+  "icon": "icon/theme-icon.png",
   "engines": {
     "vscode": "^1.76.0"
   },
@@ -14,8 +16,15 @@
       {
         "label": "Paro Paro Solarized Dark",
         "uiTheme": "vs-dark",
-        "path": "./themes/Paro-Paro-Solarized-Dark-Theme.json"
+        "path": "./themes/dark.json"
       }
     ]
-  }
+  },
+  "license": "MIT",
+  "keywords": [
+    "paro paro",
+    "solarized",
+    "theme",
+    "dark"
+  ]
 }
