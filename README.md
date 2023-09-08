@@ -1,3 +1,3 @@
-# Paro Paro Solarized Dark
+# VsCode Theme: Paro Paro Solarized Dark
 
 **Enjoy!**
