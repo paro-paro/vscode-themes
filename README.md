@@ -2,7 +2,7 @@
 
 * [Marketplace](https://marketplace.visualstudio.com/items?itemName=Paro-Paro.paro-paro-solarized-dark)
 
-* My own VS Code Theme based on Solarized Dark.
+* My own VS Code theme based on Solarized Dark.
 
 ## Check also
 
