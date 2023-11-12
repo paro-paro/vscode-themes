@@ -1,16 +1,17 @@
 {
-  "name": "paro-paro-solarized-dark",
-  "version": "1.1.0",
-  "description": "My own vscode theme based on Solarized Dark",
-  "displayName": "Paro Paro Solarized Dark",
   "publisher": "paro-paro",
-  "icon": "icon/theme-icon.png",
+  "name": "paro-paro-solarized-dark",
+  "displayName": "Paro Paro Solarized Dark",
+  "type": "module",
+  "version": "1.1.0",
+  "description": "VS Code Dark Theme based on Solarized Dark",
+  "license": "MIT",
+  "keywords": ["vscode", "theme", "dark", "solarized", "paro-paro"],
+  "categories": ["Themes"],
+  "icon": "icon/icon.png",
   "engines": {
     "vscode": "^1.76.0"
   },
-  "categories": [
-    "Themes"
-  ],
   "contributes": {
     "themes": [
       {
@@ -20,11 +21,11 @@
       }
     ]
   },
-  "license": "MIT",
-  "keywords": [
-    "paro paro",
-    "solarized",
-    "theme",
-    "dark"
-  ]
+  "scripts": {
+    "lint": "eslint ."
+  },
+  "devDependencies": {
+    "@paro-paro/eslint-config": "^0.2.0",
+    "bumpp": "^9.2.0"
+  }
 }

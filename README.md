@@ -2,7 +2,7 @@
 
 * [Marketplace](https://marketplace.visualstudio.com/items?itemName=Paro-Paro.paro-paro-solarized-dark)
 
-* My own VS Code theme based on Solarized Dark.
+* My personal VS Code theme based on Solarized Dark.
 
 ## Check also
 
@@ -10,7 +10,7 @@
 
 * [@paro-paro/vscode](https://github.com/paro-paro/vscode) - My VS Code setup.
 
-* [@paro-paro/eslint-config](https://github.com/paro-paro/eslint-config) - My ESLint flat config preset.
+* [@paro-paro/eslint-config](https://github.com/paro-paro/eslint-config) - My ESLint config preset.
 
 ## License
 
