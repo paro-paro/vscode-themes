@@ -13,5 +13,5 @@
 ### Search
 ![search](/screenshots/search.png?raw=true)
 
-### Git
+### Source control
 ![git](/screenshots/git.png?raw=true)
