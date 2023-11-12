@@ -1,3 +1,18 @@
-# VsCode Theme: Paro Paro Solarized Dark
+# Paro Paro Solarized Dark
 
-**Enjoy!**
+* [Marketplace](https://marketplace.visualstudio.com/items?itemName=Paro-Paro.paro-paro-solarized-dark)
+
+* My own VS Code Theme based on Solarized Dark.
+
+## Check also
+
+* [@paro-paro/dotfiles](https://github.com/paro-paro/dotfiles) - My dotfiles.
+
+* [@paro-paro/vscode](https://github.com/paro-paro/vscode) - My VS Code setup.
+
+* [@paro-paro/eslint-config](https://github.com/paro-paro/eslint-config) - My ESLint flat config preset.
+
+## License
+
+[MIT](./LICENSE) License &copy; 2023-PRESENT [Antonio Parody](https://github.com/paro-paro)
+

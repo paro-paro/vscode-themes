@@ -1,5 +1,0 @@
-* https://code.visualstudio.com/api/working-with-extensions/publishing-extension
-* https://code.visualstudio.com/api/references/extension-manifest
-* https://marketplace.visualstudio.com/ - sign in
-* https://marketplace.visualstudio.com/items?itemName=Paro-Paro.paro-paro-solarized-dark
-* https://marketplace.visualstudio.com/manage/publishers/paro-paro
