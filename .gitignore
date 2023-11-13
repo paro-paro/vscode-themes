@@ -1,4 +1,5 @@
 .DS_Store
 node_modules/
+dist/
 *.vsix
 wiki.txt

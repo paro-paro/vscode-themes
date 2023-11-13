@@ -35,8 +35,8 @@
   },
   "scripts": {
     "lint": "eslint .",
-    "build": "vsce package",
-    "release": "yarn run build && bumpp && vsce publish"
+    "build": "vsce package --yarn --out ./dist",
+    "release": "bumpp && vsce publish --yarn"
   },
   "devDependencies": {
     "@paro-paro/eslint-config": "^0.2.0",
