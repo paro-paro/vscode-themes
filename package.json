@@ -4,8 +4,12 @@
   "displayName": "Paro Paro Solarized Dark",
   "type": "module",
   "version": "1.2.0",
-  "description": "VS Code Dark Theme based on Solarized Dark",
+  "description": "Visual Studio Code Theme based on Solarized Dark",
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paro-paro/paro-paro-solarized-dark.git"
+  },
   "keywords": [
     "vscode",
     "theme",
@@ -30,10 +34,14 @@
     ]
   },
   "scripts": {
-    "lint": "eslint ."
+    "lint": "eslint .",
+    "build": "vsce package",
+    "release": "bumpp && vsce publish"
   },
   "devDependencies": {
     "@paro-paro/eslint-config": "^0.2.0",
-    "bumpp": "^9.2.0"
+    "@vscode/vsce": "^2.22.0",
+    "bumpp": "^9.2.0",
+    "eslint": "^8.53.0"
   }
 }
