@@ -1,9 +1,5 @@
 # Changelog
 
-All notable changes to this project will be documented in this file following [semantic versioning](https://semver.org/spec/v2.0.0.html).
-
-> This file format is based on [keep a changelog](https://keepachangelog.com/en/1.0.0/).
-
 ## [1.2.0]
 
 ### Changed
@@ -12,13 +8,13 @@ All notable changes to this project will be documented in this file following [s
 
 ## [1.1.0]
 
-### Added
+### Features
 
 - Update peek view and editor suggestions panel.
 
 ## [1.0.0]
 
-### Added
+### Features
 
 - New dark theme based on Solarized Dark.
 
