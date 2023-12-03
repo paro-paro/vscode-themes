@@ -39,7 +39,7 @@
     "release": "bumpp && vsce publish --yarn"
   },
   "devDependencies": {
-    "@paro-paro/eslint-config": "^0.2.0",
+    "@paro-paro/eslint-config": "^1.2.0",
     "@vscode/vsce": "^2.22.0",
     "bumpp": "^9.2.0",
     "eslint": "^8.53.0"
