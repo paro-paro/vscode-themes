@@ -1,6 +1,6 @@
 # Paro Paro Solarized Dark
 
-Visual Studio Code Theme based on Solarized Dark :sparkles:
+:sparkles: Visual Studio Code Theme based on Solarized Dark :sparkles:
 
 ## Screenshots
 
