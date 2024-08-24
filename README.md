@@ -1,17 +1,17 @@
-# Paro Paro Solarized Dark
+# Paro Paro VS Code Themes
 
-:collision: :sparkles: Visual Studio Code Theme based on Solarized Dark :sparkles: :collision:
+:collision: :sparkles: Visual Studio Code Themes by @paro-paro :sparkles: :collision:
 
 ## Screenshots
 
-### Main
-![main](/screenshots/main.png?raw=true)
+| Solarized | Solarized |
+|:-------------:|:-------------:|
+| ![Solarized Theme 1](/screenshots/solarized-1.png) | ![Solarized Theme 2](/screenshots/solarized-2.png) |5
 
-### Terminal
-![terminal](/screenshots/terminal.png?raw=true)
+| Night | Night |
+|:-------------:|:-------------:|
+| ![Night Theme 1](/screenshots/night-1.png) | ![Night Theme 2](/screenshots/night-2.png) |
 
-### Search
-![search](/screenshots/search.png?raw=true)
-
-### Source control
-![git](/screenshots/git.png?raw=true)
+| Dark | Dark |
+|:-------------:|:-------------:|
+| ![Dark Theme 1](/screenshots/dark-1.png) | ![Dark Theme 2](/screenshots/dark-2.png) |
