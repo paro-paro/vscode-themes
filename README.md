@@ -1,4 +1,4 @@
-# Paro Paro VS Code Themes
+# VS Code Themes
 
 :collision: :sparkles: Visual Studio Code Themes by @paro-paro :sparkles: :collision:
 
