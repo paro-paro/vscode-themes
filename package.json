@@ -1,18 +1,19 @@
 {
   "publisher": "paro-paro",
-  "name": "paro-paro-solarized-dark",
-  "displayName": "Paro Paro Solarized Dark",
+  "name": "paro-paro-themes",
+  "displayName": "Paro Paro Themes",
   "type": "module",
-  "version": "1.2.2",
-  "description": "Visual Studio Code Theme based on Solarized Dark",
+  "version": "1.0.0",
+  "description": "VS Code Themes by @paro-paro",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/paro-paro/paro-paro-solarized-dark.git"
+    "url": "https://github.com/paro-paro/vscode-themes.git"
   },
   "keywords": [
     "vscode",
     "theme",
+    "night",
     "dark",
     "solarized",
     "paro-paro"
@@ -27,9 +28,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Paro Paro Solarized Dark",
+        "label": "Paro Paro Night",
+        "uiTheme": "vs-dark",
+        "path": "./themes/night.json"
+      },
+      {
+        "label": "Paro Paro Dark",
         "uiTheme": "vs-dark",
         "path": "./themes/dark.json"
+      },
+      {
+        "label": "Paro Paro Solarized",
+        "uiTheme": "vs-dark",
+        "path": "./themes/solarized.json"
       }
     ]
   },
@@ -42,6 +53,6 @@
     "@paro-paro/eslint-config": "^1.2.0",
     "@vscode/vsce": "^2.22.0",
     "bumpp": "^9.2.0",
-    "eslint": "^8.53.0"
+    "eslint": "8.57.0"
   }
 }
