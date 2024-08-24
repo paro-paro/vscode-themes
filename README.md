@@ -1,6 +1,6 @@
 # VS Code Themes
 
-:collision: :sparkles: Visual Studio Code Themes by @paro-paro :sparkles: :collision:
+:collision: :sparkles: VS Code Themes by @paro-paro :sparkles: :collision:
 
 ## Screenshots
 
