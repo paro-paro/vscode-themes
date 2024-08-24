@@ -46,7 +46,6 @@
   },
   "scripts": {
     "lint": "eslint .",
-    "build": "vsce package --yarn --out ./dist",
     "release": "bumpp && vsce publish --yarn"
   },
   "devDependencies": {
